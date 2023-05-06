@@ -23,3 +23,7 @@ Please ensure you declare them before importing typewriter-effect/index.js
 </script>
 ```
 
+# Then simply add the class name to any element in your body:
+```html
+<a href="https://riddance.cc/" class="typewriter-effect">RIDDANCE.CC for freelance...</a>
+```
