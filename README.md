@@ -11,8 +11,8 @@ Please ensure you declare them before importing typewriter-effect/index.js
 ```html
 <script>
     var typeWriteOptions = {
-        "deleteSpeed": 50, // 0.2 seconds between deleting each character
-        "typeSpeed": 100, // 0.4 seconds between each character
+        "deleteSpeed": 50, // 0.05 seconds between deleting each character
+        "typeSpeed": 100, // 0.1 seconds between each character
         "addRandomToType": false, // add a random amount of time to delete & type speeds
         "blinkSpeed": 600, // how often the blinker changes from blinkerColor to transparent
         "blinkerEnabled": true, // should a blinker be added after the inner text
