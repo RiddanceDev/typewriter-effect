@@ -7,7 +7,7 @@ A pure javascript powered typewriter effect that supports multiple font styles w
 ```
 
 # You can also change the following options:
-Please ensure you declare them before importing.
+Please ensure you declare them before importing typewriter-effect/index.js
 ```html
 <script>
     var typeWriteOptions = {
