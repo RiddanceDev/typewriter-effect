@@ -1,6 +1,8 @@
 # typewriter-effect
 A pure javascript powered typewriter effect that supports multiple font styles with multiple options. 
 
+![Example Video](example.gif)
+
 # Place the line of code below at the end of body:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/RiddanceDev/typewriter-effect/index.js"></script>
