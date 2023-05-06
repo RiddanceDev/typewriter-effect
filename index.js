@@ -1,4 +1,4 @@
-if (typeof typeWriteOptions === "undefined") {
+if (typeof typeWriteOptions == "undefined") {
     var typeWriteOptions = {
         "deleteSpeed": 50, // 0.2 seconds between deleting each character
         "typeSpeed": 100, // 0.4 seconds between each character
